@@ -32,3 +32,15 @@ My goal is to screb dataset generated on whatsApp group with python and visulize
 
 ##### Step 4: Save the file as csv
 ![image](https://user-images.githubusercontent.com/50216723/164427373-8e2eb29e-929f-4cc3-8417-0ec34eb0706a.png)
+
+##### Step 5: Visualization with MS Power BI
+![image](https://user-images.githubusercontent.com/50216723/164427990-b00aedff-532f-4bcf-81b5-e3d2c93e9493.png)
+
+![image](https://user-images.githubusercontent.com/50216723/164428132-6c648f04-3b67-4659-a877-4b5940eefd33.png)
+
+![image](https://user-images.githubusercontent.com/50216723/164428282-ba6a66af-855d-4d49-9ba9-6bb6f94e42d4.png)
+
+![image](https://user-images.githubusercontent.com/50216723/164428364-7fbf609a-99e9-44ef-a781-3e86f8315909.png)
+
+
+
