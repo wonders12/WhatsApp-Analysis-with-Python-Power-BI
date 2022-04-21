@@ -14,3 +14,21 @@ My goal is to screb dataset generated on whatsApp group with python and visulize
 
 ##### Step 1: Import functions and library
 ![image](https://user-images.githubusercontent.com/50216723/164425596-112e866e-a40f-40c2-a8fc-78c14b3f4dbc.png)
+
+
+##### Step 2: Load the exported dataset into python environment and read
+![image](https://user-images.githubusercontent.com/50216723/164426269-17b6a38d-7f8f-4f25-8027-ec8580ee9103.png)
+
+
+##### Step 3: Data cleaning
+![image](https://user-images.githubusercontent.com/50216723/164426580-fdc1164e-3bc7-4e5d-8ef5-23be79037523.png)
+
+![image](https://user-images.githubusercontent.com/50216723/164426942-885048ed-2628-4666-be28-30ffa8c4a0f9.png)
+
+![image](https://user-images.githubusercontent.com/50216723/164427035-5081a6c8-a6d8-4344-b8a2-287b72088ea9.png)
+
+![image](https://user-images.githubusercontent.com/50216723/164427215-f8ed1c81-697d-4b40-ba62-7cf174a19769.png)
+
+
+##### Step 4: Save the file as csv
+![image](https://user-images.githubusercontent.com/50216723/164427373-8e2eb29e-929f-4cc3-8417-0ec34eb0706a.png)
