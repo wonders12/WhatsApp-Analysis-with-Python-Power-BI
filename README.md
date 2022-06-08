@@ -4,7 +4,7 @@
 Whatsapp is one of the most used applications people spent most of their time on. After realizing this, most people avoid being active always to increase their productivity in their day-to-day activities.
 
 ### My goal
-My goal is to screb dataset generated on whatsApp group with python and visulize it with Power BI.
+My goal is to scrap dataset generated on whatsApp group with python and visulize it with Power BI.
 
 ### Project Steps
 - Export the dataset from the WhatsApp group page (excluding media)
