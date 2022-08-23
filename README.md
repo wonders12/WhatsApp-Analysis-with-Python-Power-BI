@@ -44,4 +44,4 @@ My goal is to scrap dataset generated on whatsApp group with python and visulize
 
 
 ### Link to the Dashboard:
-https://www.novypro.com/project/whatsapp-analysis
+https://bit.ly/WhatsApp_Analysis
